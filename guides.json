@@ -1,37 +1,107 @@
-[
-  {
-    "id": 1,
-    "title": "Welcome to the Demon Hunt",
-    "gameName": "Kpop Demon Hunter",
-    "content": "In a world where shadows lurk beneath the glittering stage lights, a new breed of warriors emerges. The Kpop Demon Hunters are not just idols; they are the last line of defense against supernatural forces. Combining killer choreography with lethal combat skills, they protect humanity while maintaining their superstar status. Join them on their journey to vanquish evil and drop chart-topping hits.",
-    "imageUrl": "https://images.unsplash.com/photo-1542360663-8b401565a0ca?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
-  },
-  {
-    "id": 2,
-    "title": "Mastering the Neon Blade",
-    "gameName": "Kpop Demon Hunter",
-    "content": "The signature weapon of every seasoned Demon Hunter is the Neon Blade. Forged from pure starlight and synchronized to the rhythm of the universe, it slices through darkness effortlessly. To master this weapon, one must first learn to harmonize their soul with the beat. Practice your rhythm, stay light on your feet, and let the music guide your strikes.",
-    "imageUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
-  },
-  {
-    "id": 3,
-    "title": "The Enigma of the Phantom Idol",
-    "gameName": "Kpop Demon Hunter",
-    "content": "Rumors speak of a Phantom Idol, a mysterious figure who appears only during the blood moon. Some say they are a fallen Hunter, while others believe they are a demon in disguise. Their songs possess a hypnotic quality, capable of mesmerizing both mortals and spirits. If you ever encounter the Phantom Idol, remember: do not lose yourself in their melody.",
-    "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
-  },
-  {
-    "id": 4,
-    "title": "Shadow Beasts: A Hunter's Guide",
-    "gameName": "Kpop Demon Hunter",
-    "content": "Shadow Beasts are the most common foes you will face. They feed on negative energy and fear. To defeat them, you must project confidence and positivity. A well-executed dance combo combined with a powerful vocal high-note will shatter their shadowy forms. Never let them sense your fear, and always keep the rhythm going.",
-    "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
-  },
-  {
-    "id": 5,
-    "title": "The Final Encore",
-    "gameName": "Kpop Demon Hunter",
-    "content": "The ultimate battle is known as the Final Encore. It is a grueling test of endurance, skill, and sheer willpower. Only the most elite Hunters survive the Encore. You must perfectly execute your ultimate moves while maintaining perfect pitch. When the final note strikes and the demons are banished, the roar of the crowd will be your ultimate reward.",
-    "imageUrl": "https://images.unsplash.com/photo-1470229722913-7c092bb45800?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
-  }
-]
+{
+  "title": "KATSEYE: The Global Girl Group Redefining Pop Music",
+  "introduction": "KATSEYE is one of the newest global girl groups making waves in the music industry. Although many fans associate them with K-pop because of their training system, KATSEYE is actually a global pop group created through a collaboration between HYBE and Geffen Records. They officially debuted on June 28, 2024, with their first single, \"Debut.\"",
+  "facts": [
+    {
+      "id": 1,
+      "title": "A Truly Global Group",
+      "content": "One of the most unique things about KATSEYE is its diverse lineup. The group consists of six members from different countries and cultural backgrounds: Sophia (Philippines), Manon (Switzerland), Daniela (United States), Lara (United States), Megan (United States), and Yoonchae (South Korea). Their multicultural backgrounds allow them to connect with fans from all over the world."
+    },
+    {
+      "id": 2,
+      "title": "Formed Through Dream Academy",
+      "content": "KATSEYE was created through the survival program \"The Debut: Dream Academy,\" a global audition project organized by HYBE and Geffen Records. More than 120,000 applicants from around the world auditioned before the final six members were selected."
+    },
+    {
+      "id": 3,
+      "title": "Inspired by K-pop, Built for the World",
+      "content": "Although KATSEYE follows the intensive training system commonly used in K-pop, the group mainly releases English-language music and targets a global audience. This combination of K-pop-style performance and Western pop music makes KATSEYE stand out in today's music industry."
+    },
+    {
+      "id": 4,
+      "title": "Meaning Behind the Name",
+      "content": "The name \"KATSEYE\" is inspired by the cat's eye gemstone, which reflects different colors depending on the angle of light. It symbolizes individuality, talent, and the diverse personalities of each member while highlighting their unity as a team."
+    },
+    {
+      "id": 5,
+      "title": "Their Music",
+      "content": "KATSEYE debuted with the single \"Debut,\" followed by their first EP \"SIS (Soft Is Strong).\" Their songs combine catchy pop melodies, impressive choreography, and confident performances. Later releases such as \"Touch,\" \"Gnarly,\" and \"Gabriela\" further expanded their global popularity."
+    },
+    {
+      "id": 6,
+      "title": "Netflix Documentary",
+      "content": "The group's journey was documented in the Netflix series \"Pop Star Academy: KATSEYE,\" giving fans a behind-the-scenes look at the challenging audition process, rigorous training, and emotional moments that led to their debut."
+    },
+    {
+      "id": 7,
+      "title": "Growing Global Success",
+      "content": "Despite being a relatively new group, KATSEYE has quickly gained international recognition. Their performances, social media presence, and viral songs have attracted millions of fans worldwide. Their second EP became their first Top 10 release on the Billboard 200."
+    },
+    {
+      "id": 8,
+      "title": "Official Fandom Name",
+      "content": "KATSEYE's official fandom is called EYEKONS. The fandom name reflects the close connection between the members and their supporters around the world."
+    },
+    {
+      "id": 9,
+      "title": "Strong Performance Skills",
+      "content": "Each member underwent extensive training in vocals, dance, stage presence, media communication, and teamwork. Their synchronized choreography has become one of the group's signature strengths."
+    },
+    {
+      "id": 10,
+      "title": "A Multilingual Group",
+      "content": "Thanks to their diverse backgrounds, the members can communicate in multiple languages, including English and Korean, while some members also speak additional languages from their home countries."
+    },
+    {
+      "id": 11,
+      "title": "Fashion Icons in the Making",
+      "content": "KATSEYE has gained recognition for their stylish fashion concepts. Their stage outfits and promotional photos often combine luxury fashion with modern streetwear aesthetics."
+    },
+    {
+      "id": 12,
+      "title": "Strong Social Media Presence",
+      "content": "The group actively engages with fans on platforms like TikTok, Instagram, YouTube, and Weverse. Dance challenges, live streams, and behind-the-scenes videos have helped them grow a loyal international fanbase."
+    },
+    {
+      "id": 13,
+      "title": "Diverse Musical Influences",
+      "content": "KATSEYE's music blends pop, dance-pop, R&B, electronic music, and K-pop influences, allowing them to appeal to listeners from many different musical backgrounds."
+    },
+    {
+      "id": 14,
+      "title": "Every Member Brings Unique Strengths",
+      "content": "Each member contributes different talents to the group. Some are known for their strong vocals, while others shine through exceptional dancing, stage charisma, or expressive performances."
+    },
+    {
+      "id": 15,
+      "title": "International Fanbase",
+      "content": "Since debuting, KATSEYE has built a growing fanbase across Asia, North America, Europe, Latin America, and many other regions, demonstrating their worldwide appeal."
+    },
+    {
+      "id": 16,
+      "title": "High-Quality Music Videos",
+      "content": "KATSEYE's music videos are praised for their cinematic visuals, creative storytelling, detailed choreography, and impressive production quality."
+    },
+    {
+      "id": 17,
+      "title": "Inspired by Hard Work and Perseverance",
+      "content": "Before debuting, the members spent months completing demanding training schedules. Their journey highlights the dedication and perseverance required to succeed in the global music industry."
+    },
+    {
+      "id": 18,
+      "title": "Breaking the Traditional Idol Formula",
+      "content": "KATSEYE combines the Korean idol training system with Western pop music, creating a fresh approach that represents the future of global entertainment."
+    },
+    {
+      "id": 19,
+      "title": "Positive Messages in Their Music",
+      "content": "Many of KATSEYE's songs promote confidence, self-expression, friendship, and personal growth, making their music relatable to young audiences around the world."
+    },
+    {
+      "id": 20,
+      "title": "A Bright Future Ahead",
+      "content": "Although they are still early in their career, KATSEYE continues to achieve new milestones through successful releases, international performances, and a rapidly expanding fanbase. Many industry observers believe they have the potential to become one of the defining global girl groups of their generation."
+    }
+  ],
+  "conclusion": "KATSEYE represents a new generation of global pop groups. By combining the discipline and performance style of K-pop with international diversity and English-language music, they have created a fresh identity that appeals to fans around the world. As they continue releasing new music and performing internationally, KATSEYE is proving that the future of pop music is more global than ever."
+}
